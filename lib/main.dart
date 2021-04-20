@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import './screens/search_screen.dart';
+import 'screens/home_screen.dart';
 
 void main() {
   runApp(SearchApp());
@@ -25,7 +25,7 @@ class SearchApp extends StatelessWidget {
             )),
         primaryColor: Colors.blue,
       ),
-      home: SearchPage(),
+      home: HomeScreen(),
     );
   }
 }
