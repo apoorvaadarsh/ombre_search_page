@@ -12,6 +12,9 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Theme.of(context).backgroundColor,
       bottomNavigationBar: CustomBottomNavigationBar(
+        backgroundColor: Colors.grey[900],
+        itemBackgroudnColor: Colors.red,
+        itemOutlineColor: Theme.of(context).backgroundColor,
         onTap: (index) {
           _pageController.animateToPage(index,
               curve: Curves.fastLinearToSlowEaseIn,
