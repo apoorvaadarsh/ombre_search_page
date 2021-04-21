@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447204435648",
+    "firebase_url": "https://my-shop-fca08.firebaseio.com",
+    "project_id": "my-shop-fca08",
+    "storage_bucket": "my-shop-fca08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447204435648:android:2b13ceeffb8b717960af25",
+        "android_client_info": {
+          "package_name": "com.example.ombre_search_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447204435648-64gdojd6m4snj6134pmfm4c7ual5fk92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDFDiQWcUxxjXXqP_0HxCbvliRS3g7p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447204435648-64gdojd6m4snj6134pmfm4c7ual5fk92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
